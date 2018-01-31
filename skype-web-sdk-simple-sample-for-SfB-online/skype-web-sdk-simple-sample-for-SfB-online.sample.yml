@@ -1,0 +1,19 @@
+### YamlMime:Sample
+sample:
+- name: Skype for Business simple sample
+  path: skype-web-sdk-simple-sample-for-SfB-online
+  description: This sample is made for developers who want to start Skype Web SDK development! After you read it and try tutorials, you can sign-in, chat, audio/video communication with Skype Web SDK in the browser like the image below.
+  readme: ''
+  generateZip: FALSE
+  isLive: TRUE
+  technologies:
+  - Office Add-in
+  azureDeploy: ''
+  author: JohnAustin-MSFT
+  platforms: []
+  languages:
+  - C#
+  extensions:
+    products:
+    - Skype for Business
+    scenarios: []
