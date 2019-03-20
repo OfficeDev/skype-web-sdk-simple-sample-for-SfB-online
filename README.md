@@ -1,3 +1,15 @@
+---
+topic: sample
+products:
+- Skype
+- Skype for Business
+- Office 365
+languages:
+- HTML
+extensions:
+  contentType: sdks
+  createdDate: 8/22/2016 2:14:13 PM
+---
 # skype web sdk simple sample for SfB online
 This document is made for developers who want to start Skype Web SDK development!
 After you read it and try tutorials, you can sign-in, chat, audio/video communication with Skype Web SDK in the browser like the image below.
