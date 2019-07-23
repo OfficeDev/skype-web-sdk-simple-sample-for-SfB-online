@@ -1,4 +1,5 @@
 ---
+page_type: sample
 products:
 - skype
 - office-skype-business
