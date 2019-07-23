@@ -1,5 +1,4 @@
 ---
-topic: sample
 products:
 - skype
 - office-skype-business
