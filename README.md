@@ -10,7 +10,8 @@ extensions:
   contentType: sdks
   createdDate: 8/22/2016 2:14:13 PM
 ---
-# skype web sdk simple sample for SfB online
+
+# Skype web sdk simple sample for SfB online
 This document is made for developers who want to start Skype Web SDK development!
 After you read it and try tutorials, you can sign-in, chat, audio/video communication with Skype Web SDK in the browser like the image below.
 
@@ -23,7 +24,7 @@ After you read it and try tutorials, you can sign-in, chat, audio/video communic
 * How to deploy and try sample in your environment
 * Next Step
 
-# What is Skype Web SDK?
+## What is Skype Web SDK?
 Skype Web SDK is one of the Key SDK of [Skype Developer Platform](https://dev.office.com/Skype).
 It is a set of JavaScript Web APIs and HTML controls that enable you to build web experiences that seamlessly integrate a wide variety of real-time collaboration models leveraging [Skype for Business](https://www.skype.com/en/business/skype-for-business/) services and the larger Skype network. 
 
@@ -32,7 +33,7 @@ It is a set of JavaScript Web APIs and HTML controls that enable you to build we
 * [Learn more](https://msdn.microsoft.com/skype/websdk/SkypeWebSDK)
 
 
-# Preparering for development
+## Preparering for development
 For developing application with Skype Web SDK, you need to prepare these resources below.
 1. Office 365 tenant. It inclues Skype for Business.
 2. Azure Active Directory
@@ -139,17 +140,17 @@ I recommend to prepare 2 PCs having audio/video device and 2 O365 user accounts 
 In order to understand how to develop, please read the codes and comments in the sample.
 **Enjoy** your development with Skype Web SDK!
 
-# Next Step
+## Next Step
 * To learn how to develop with Skype Web SDK, you can refer more rich sample in [GitHub](https://github.com/OfficeDev/skype-web-sdk-samples).
 * If you are mobile developer, you can develop with [Skype for Businee App SDK](https://msdn.microsoft.com/en-us/skype/appsdk/skypeappsdk).
 * If you want to know SDK deeply, you can refer [this document](https://ucwa.skype.com/reference/WebSDK/modules/_s4b_sdk_d_.jcafe.html).
 
-# Contributing
+## Contributing
 You will need to sign a [Contributor License Agreement](https://cla.microsoft.com/) before submitting your pull request. To complete the Contributor License Agreement (CLA), you will need to submit a request via the form and then electronically sign the Contributor License Agreement when you receive the email containing the link to the document. This needs to only be done once for any Microsoft  OSS project.
 
 You can check general contributing way in [CONTRIBUTIONG.md](./CONTRIBUTING.md).
 
-# Copyright
+## Copyright
 Copyright (c) 2016 Microsoft Corporation. All rights reserved.
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
